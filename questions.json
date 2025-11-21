@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What does the acronym ISS stand for?",
+    "options": ["International Space Station", "Interstellar Space Ship", "Indian Space Station", "Integrated Space System"],
+    "answer": 0
+  },
+  {
+    "question": "Which rocket currently holds the record for the most powerful operational launch vehicle?",
+    "options": ["Falcon 9", "Saturn V", "Starship (SpaceX)", "SLS (NASA)"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the first reusable spacecraft that landed vertically?",
+    "options": ["Space Shuttle", "Falcon 9 first stage", "Blue Origin New Shepard", "X-37B"],
+    "answer": 1
+  },
+  {
+    "question": "Which company developed the Dragon spacecraft?",
+    "options": ["Blue Origin", "Boeing", "SpaceX", "Northrop Grumman"],
+    "answer": 2
+  },
+  {
+    "question": "What is the main purpose of the James Webb Space Telescope?",
+    "options": ["Observe Earth weather", "Study exoplanets and early universe in infrared", "Take photos of Mars", "Track asteroids"],
+    "answer": 1
+  },
+  {
+    "question": "Which rocket launched the Artemis I mission in 2022?",
+    "options": ["Falcon Heavy", "SLS (Space Launch System)", "Atlas V", "Delta IV Heavy"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of NASA’s lunar lander program for Artemis?",
+    "options": ["Starship HLS", "Blue Moon", "Both Starship HLS and Blue Moon", "Orion Lander"],
+    "answer": 2
+  },
+  {
+    "question": "Which satellite constellation provides global internet (as of 2025)?",
+    "options": ["OneWeb", "Starlink", "Iridium NEXT", "Globalstar"],
+    "answer": 1
+  },
+  {
+    "question": "What type of engine does the SpaceX Raptor use?",
+    "options": ["Solid propellant", "Full-flow staged combustion methalox", "Hydrolox pressure-fed", "Kerolox gas generator"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the first private spacecraft to dock with the ISS?",
+    "options": ["Crew Dragon", "Boeing Starliner", "SpaceX Dragon 1", "Cygnus"],
+    "answer": 2
+  },
+  {
+    "question": "Which country operates the Tianwen-1 Mars rover (Zhurong)?",
+    "options": ["Japan", "India", "China", "UAE"],
+    "answer": 2
+  },
+  {
+    "question": "What does GEO stand for in satellite orbits?",
+    "options": ["Geostationary Earth Orbit", "General Earth Observation", "Global Equatorial Orbit", "Geosynchronous Elliptical Orbit"],
+    "answer": 0
+  },
+  {
+    "question": "Which telescope discovered the first interstellar object 'Oumuamua?",
+    "options": ["Hubble", "Pan-STARRS", "James Webb", "Kepler"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Blue Origin’s suborbital tourism rocket?",
+    "options": ["New Glenn", "New Shepard", "Vulcan", "Neutron"],
+    "answer": 1
+  },
+  {
+    "question": "Which propulsion system is used by Starlink satellites for orbit raising and deorbiting?",
+    "options": ["Cold gas thrusters", "Hall-effect thrusters (krypton)", "Chemical bipropellant", "Ion thrusters (xenon)"],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the Gateway station in the Artemis program?",
+    "options": ["Mars transfer station", "Lunar orbit outpost", "Earth observation hub", "Asteroid mining base"],
+    "answer": 1
+  },
+  {
+    "question": "Which rocket uses methalox (methane + liquid oxygen) as propellant?",
+    "options": ["Falcon 9", "Starship", "Vulcan Centaur", "Ariane 6"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of India’s reusable launch vehicle demonstrator?",
+    "options": ["RLV-TD", "Gaganyaan", "PSLV-XL", "AVATAR"],
+    "answer": 0
+  },
+  {
+    "question": "Which mission sent the first helicopter (Ingenuity) to Mars?",
+    "options": ["Curiosity", "Perseverance", "Insight", "Opportunity"],
+    "answer": 1
+  },
+  {
+    "question": "What does LEO stand for?",
+    "options": ["Lunar Earth Orbit", "Low Earth Orbit", "Lagrange Earth Orbit", "Long Elliptical Orbit"],
+    "answer": 1
+  },
+  {
+    "question": "Which company is developing the Vulcan Centaur rocket?",
+    "options": ["United Launch Alliance (ULA)", "Rocket Lab", "Arianespace", "SpaceX"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the European reusable rocket project (as of 2025)?",
+    "options": ["Themis", "Spectrum", "Callisto", "Ariane Next"],
+    "answer": 0
+  },
+  {
+    "question": "Which telescope is located at L2 Lagrange point?",
+    "options": ["Hubble", "James Webb Space Telescope", "Chandra", "Spitzer"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main engine of the Space Shuttle called?",
+    "options": ["RS-25", "Merlin 1D", "BE-4", "Raptor"],
+    "answer": 0
+  },
+  {
+    "question": "Which country launched the Chandrayaan-3 lunar lander successfully?",
+    "options": ["China", "India", "Russia", "Japan"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Rocket Lab’s reusable rocket?",
+    "options": ["Electron", "Neutron", "Photon", "HyperCurie"],
+    "answer": 1
+  },
+  {
+    "question": "Which ion propulsion system was used on NASA’s Dawn mission?",
+    "options": ["Hall thruster", "Gridded ion thruster (xenon)", "VASIMR", "NEXT"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of China’s space station (operational 2022–)?",
+    "options": ["Tiangong", "Mir-2", "Lunar Palace", "Wentian"],
+    "answer": 0
+  },
+  {
+    "question": "Which launch vehicle uses the BE-4 engine?",
+    "options": ["New Glenn", "Vulcan Centaur", "Both", "Starship"],
+    "answer": 2
+  },
+  {
+    "question": "What does SLS stand for?",
+    "options": ["Space Launch System", "Super Light Satellite", "Small Launch Service", "Shuttle Launch System"],
+    "answer": 0
+  },
+  {
+    "question": "Which spacecraft took the famous 'Pale Blue Dot' photo?",
+    "options": ["Voyager 1", "New Horizons", "Cassini", "Pioneer 10"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the first commercial lunar lander by Intuitive Machines?",
+    "options": ["Peregrine", "Nova-C", "Hakuto-R", "Beresheet"],
+    "answer": 1
+  },
+  {
+    "question": "Which orbit do most Starlink satellites operate in?",
+    "options": ["550 km LEO", "GEO", "MEO", "Sun-synchronous"],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary fuel of the Sabatier reaction used on Mars ISRU concepts?",
+    "options": ["Hydrogen", "Methane", "Carbon dioxide from Mars atmosphere", "Oxygen"],
+    "answer": 2
+  },
+  {
+    "question": "Which company built the Cygnus spacecraft?",
+    "options": ["Northrop Grumman", "Sierra Space", "Boeing", "Lockheed Martin"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the heat shield material used on SpaceX Starship?",
+    "options": ["PICA-X", "Silica tiles", "Ablative cork", "Hexagonal ceramic tiles"],
+    "answer": 3
+  },
+  {
+    "question": "Which mission will return samples from Mars (planned 2030s)?",
+    "options": ["Mars Sample Return (NASA/ESA)", "Tianwen-3", "MMX", "ExoMars"],
+    "answer": 0
+  },
+  {
+    "question": "What does GTO stand for?",
+    "options": ["Geostationary Transfer Orbit", "Global Transfer Orbit", "General Transport Orbit", "Gravitational Transfer Orbit"],
+    "answer": 0
+  },
+  {
+    "question": "Which rocket uses the RD-180 engine?",
+    "options": ["Falcon 9", "Atlas V", "Proton", "Angara"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Arianespace’s newest rocket family?",
+    "options": ["Ariane 5", "Ariane 6", "Vega C", "Soyuz"],
+    "answer": 1
+  },
+  {
+    "question": "Which telescope uses a 6.5-meter segmented mirror?",
+    "options": ["Hubble", "James Webb", "Kepler", "Spitzer"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the Boeing crewed spacecraft?",
+    "options": ["Dream Chaser", "Starliner", "Orion", "Dragon 2"],
+    "answer": 1
+  },
+  {
+    "question": "Which country operates the Hayabusa2 asteroid sample-return mission?",
+    "options": ["China", "Japan", "USA", "India"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary purpose of the DART mission?",
+    "options": ["Asteroid mining", "Test planetary defense (kinetic impact)", "Deliver rover", "Sample return"],
+    "answer": 1
+  },
+  {
+    "question": "Which engine powers the Electron rocket?",
+    "options": ["Rutherford", "Raptor", "Merlin", "BE-3"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the lunar rover for Artemis III (2026+)?",
+    "options": ["VIPER", "Lunar Terrain Vehicle (LTV)", "Yutu", "Rashid"],
+    "answer": 1
+  },
+  {
+    "question": "Which propulsion technology is used on the Psyche spacecraft?",
+    "options": ["Chemical", "Hall-effect thrusters (SPT)", "Solar sails", "Nuclear thermal"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the first all-private crew mission to the ISS?",
+    "options": ["Ax-1", "Inspiration4", "Polaris Dawn", "DearMoon"],
+    "answer": 0
+  },
+  {
+    "question": "Which rocket has landed over 300 successful boosters (as of 2025)?",
+    "options": ["Falcon 9", "Long March 8", "Electron", "None have"],
+    "answer": 0
+  },
+  {
+    "question": "What does ESCAPADE stand for (Mars mission)?",
+    "options": ["Escape and Plasma Acceleration and Dynamics Explorers", "Earth-Sun Connection and Plasma Atmosphere Dynamics Experiment", "Exploration of Small Celestial bodies And Planetary Atmospheres", "None of the above"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of SpaceX's giant launch and catch tower at Starbase called?",
+    "options": ["Mechazilla", "Octograbber", "Chopstick Tower", "Skyhook"],
+    "answer": 0
+  },
+  {
+    "question": "Which country successfully landed on the far side of the Moon first (Chang'e-4)?",
+    "options": ["USA", "Russia", "China", "India"],
+    "answer": 2
+  },
+  {
+    "question": "What material is primarily used in SpaceX Starship's structure?",
+    "options": ["Aluminum-lithium", "Carbon composite", "Stainless steel (30X)", "Titanium"],
+    "answer": 2
+  },
+  {
+    "question": "Which rocket uses the most powerful single combustion chamber engine ever flown (Raptor 2)?",
+    "options": ["Falcon Heavy", "Starship", "N1", "Energia"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the NASA mission that will fly by Europa starting in 2030?",
+    "options": ["Europa Clipper", "JUICE", "Europa Lander", "Dragonfly"],
+    "answer": 0
+  },
+  {
+    "question": "Which company is developing the Dream Chaser spaceplane?",
+    "options": ["Boeing", "Sierra Space", "Virgin Galactic", "Blue Origin"],
+    "answer": 1
+  },
+  {
+    "question": "What does TLI stand for in lunar missions?",
+    "options": ["Trans-Lunar Injection", "Terminal Lunar Insertion", "Trans-Lagrange Intercept", "Temporary Lunar Orbit"],
+    "answer": 0
+  },
+  {
+    "question": "Which propulsion system powers the SpaceX Starliner emergency launch abort?",
+    "options": ["SuperDraco thrusters", "RCS thrusters", "Cold gas", "Solid rockets"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of Russia's new super-heavy rocket intended to replace Proton?",
+    "options": ["Angara A5", "Soyuz-5", "Yenisei", "Amur"],
+    "answer": 0
+  },
+  {
+    "question": "Which telescope discovered the first exoplanet using direct imaging?",
+    "options": ["Kepler", "TESS", "Hubble", "Gemini Planet Imager"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the first fully private mission to orbit the Moon (dearMoon project)?",
+    "options": ["Inspiration4", "Polaris Dawn", "dearMoon (starship)", "Axiom-3"],
+    "answer": 2
+  },
+  {
+    "question": "Which engine powers Europe's upcoming Ariane 6 rocket?",
+    "options": ["Vulcain 2.1", "Vinci", "Both", "Prometheus"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the uncrewed Boeing Starliner flight that failed to dock in 2019?",
+    "options": ["OFT-1", "CFT", "OFT-2", "Crew Flight Test"],
+    "answer": 0
+  },
+  {
+    "question": "Which country operates the Queqiao relay satellite for far-side lunar comms?",
+    "options": ["India", "China", "Japan", "South Korea"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary mirror diameter of the Nancy Grace Roman Space Telescope?",
+    "options": ["2.4 m (same as Hubble)", "6.5 m", "1.5 m", "8.4 m"],
+    "answer": 0
+  },
+  {
+    "question": "Which rocket uses the most engines in a single core (33 Raptors)?",
+    "options": ["Falcon Heavy", "Starship Super Heavy", "SLS", "N1"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of ISRO's crewed spacecraft?",
+    "options": ["Vyomanaut", "Gaganyaan", "Aditya", "Chandrayaan"],
+    "answer": 1
+  },
+  {
+    "question": "Which mission sent the first color photos from the surface of Venus?",
+    "options": ["Venera 7", "Venera 9", "Venera 13", "Mariner 10"],
+    "answer": 2
+  },
+  {
+    "question": "What does NRHO stand for in Artemis lunar orbits?",
+    "options": ["Near-Rectilinear Halo Orbit", "Near-Round High Orbit", "Neutral Return Halo Orbit", "Near-Radar Horizon Orbit"],
+    "answer": 0
+  },
+  {
+    "question": "Which company makes the RS-25 engines used on SLS?",
+    "options": ["Aerojet Rocketdyne", "Blue Origin", "SpaceX", "Northrop Grumman"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the first commercial space station planned by Axiom Space?",
+    "options": ["Axiom Station", "Starlab", "Orbital Reef", "Vast-1"],
+    "answer": 0
+  },
+  {
+    "question": "Which probe is currently the farthest human-made object from Earth (2025)?",
+    "options": ["Voyager 1", "Voyager 2", "New Horizons", "Pioneer 10"],
+    "answer": 0
+  },
+  {
+    "question": "What type of landing does SpaceX Starship use on Earth return?",
+    "options": ["Parachute + ocean splashdown", "Propulsive landing (belly flop + flip)", "Legged landing like Falcon", "Airbag landing"],
+    "answer": 1
+  },
+  {
+    "question": "Which country launched the Emirates Mars Mission (Hope orbiter)?",
+    "options": ["Saudi Arabia", "Qatar", "United Arab Emirates", "Egypt"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the reusable engine being developed by Europe (Prometheus successor)?",
+    "options": ["Vulcain", "Mira", "Prometheus", "Vinci"],
+    "answer": 2
+  },
+  {
+    "question": "Which spacecraft used aerocapture at Titan?",
+    "options": ["Cassini", "Huygens", "Dragonfly (future)", "None have"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the Chinese Mars sample return mission planned for ~2030?",
+    "options": ["Tianwen-2", "Tianwen-3", "Chang'e-8", "Zhurong-2"],
+    "answer": 1
+  },
+  {
+    "question": "Which rocket has a payload fairing large enough to carry an entire school bus?",
+    "options": ["Falcon Heavy", "Starship", "New Glenn", "SLS Block 2"],
+    "answer": 1
+  },
+  {
+    "question": "What does LOX stand for in rocket propellant?",
+    "options": ["Liquid Oxygen", "Lox propellant mixture", "Low-Oxidizer", "Liquid Oxidizer eXtreme"],
+    "answer": 0
+  },
+  {
+    "question": "Which mission will fly a drone over Titan's surface in the 2030s?",
+    "options": ["Dragonfly", "Titan Mare Explorer", "Cassini return", "Enceladus Life Finder"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of Relativity Space's 3D-printed rocket?",
+    "options": ["Terran 1", "Terran R", "Aeon 1", "Stargate"],
+    "answer": 1
+  },
+  {
+    "question": "Which telescope uses a sunshield the size of a tennis court?",
+    "options": ["Hubble", "James Webb Space Telescope", "Roman", "Spitzer"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the first crewed mission on SpaceX Starship (planned)?",
+    "options": ["Artemis III", "dearMoon", "Polaris Dawn", "Starship HLS test"],
+    "answer": 1
+  },
+  {
+    "question": "Which country operates the X-37B spaceplane?",
+    "options": ["Russia", "China", "USA (Space Force)", "ESA"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the methane engine being developed by ULA for Vulcan?",
+    "options": ["BE-4", "BE-3U", "Centaur V", "RL10"],
+    "answer": 0
+  },
+  {
+    "question": "Which mission deliberately crashed into an asteroid in 2022?",
+    "options": ["Hayabusa2", "DART", "OSIRIS-REx", "NEAR Shoemaker"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the private Japanese lunar lander that crashed in 2023?",
+    "options": ["Hakuto-R M1", "OMOTENASHI", "SLIM", "Beresheet 2"],
+    "answer": 0
+  },
+  {
+    "question": "Which orbit is used by GPS satellites?",
+    "options": ["LEO", "MEO", "GEO", "Polar"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Firefly Aerospace's medium-lift rocket?",
+    "options": ["Alpha", "Beta", "Gamma", "MLV"],
+    "answer": 0
+  },
+  {
+    "question": "Which telescope is designed to hunt for potentially hazardous asteroids?",
+    "options": ["Pan-STARRS", "NEOWISE", "Vera C. Rubin Observatory", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the inflatable habitat module tested on the ISS?",
+    "options": ["BEAM", "Nautilus", "Aurora", "Bigelow 330"],
+    "answer": 0
+  },
+  {
+    "question": "Which rocket uses solid rocket boosters derived from the Space Shuttle?",
+    "options": ["Falcon 9", "SLS", "Ariane 6", "Atlas V"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of South Korea's first homegrown space launch vehicle?",
+    "options": ["Nuri (KSLV-II)", "Arirang", "Danuri", "Koreasat"],
+    "answer": 0
+  },
+  {
+    "question": "Which mission returned asteroid samples from Bennu?",
+    "options": ["Hayabusa2", "OSIRIS-REx", "Chang'e-5", "Luna 27"],
+    "answer": 1
+  },
+  {
+    "question": "What does HOTOL stand for?",
+    "options": ["Horizontal Take-Off and Landing", "High Orbit Transfer Orbital Lander", "Hybrid Oxygen Turbine Operated Launch", "None (canceled project)"],
+    "answer": 0
+  },
+  {
+    "question": "Which company is building the Orbital Reef commercial space station?",
+    "options": ["Blue Origin + Sierra Space", "Axiom", "Northrop Grumman", "Nanostar"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the Chinese lunar sample return mission from 2020?",
+    "options": ["Chang'e-4", "Chang'e-5", "Chang'e-6", "Queqiao"],
+    "answer": 1
+  },
+  {
+    "question": "Which propulsion system is used on most modern geostationary satellites for station-keeping?",
+    "options": ["Bipropellant", "Cold gas", "Ion thrusters (usually xenon)", "Solid motors"],
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the first tourist to pay for a ride on Soyuz to ISS (2001)?",
+    "options": ["Guy Laliberté", "Dennis Tito", "Mark Shuttleworth", "Charles Simonyi"],
+    "answer": 1
+  },
+  {
+    "question": "Which rocket will launch the Europa Clipper mission?",
+    "options": ["Falcon Heavy", "SLS", "Vulcan Centaur", "Starship"],
+    "answer": 0
+  }
+]
